@@ -12,3 +12,6 @@ A simple machine learning app using Linear Regression to predict a person's weig
 
 ```bash
 streamlit run app.py
+
+IF you want to view the live working project.Visit the link
+https://height-weight-predictor-9gpbswebgmzrdzwzikwuc6.streamlit.app/
