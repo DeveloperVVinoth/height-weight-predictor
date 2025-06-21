@@ -3,7 +3,7 @@
 A simple machine learning app using Linear Regression to predict a person's weight based on height.
 
 ## 🔧 Built With:
-- PythonZZ
+- Python
 - Pandas
 - Scikit-learn
 - Streamlit
